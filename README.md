@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sghosh.12696@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/sourav---ghosh
+
 
 <!---
 sourav199612/sourav199612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
